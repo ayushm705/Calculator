@@ -12,7 +12,10 @@
     --red: #c14444;
 
 }
-
+body {
+ background-image: url("Farm.jpg");
+ 
+}
 #calculator
 {
 	width:45%;
